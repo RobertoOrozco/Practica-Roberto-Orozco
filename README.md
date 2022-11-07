@@ -2,9 +2,11 @@
 ProContacto
 Por: Roberto Carlos Orozco Guevara
 ## Ejercicio 1
-Descargar Visual Studio and Git Bash
+### Visual Studio Code
+![Get](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/VS%20code.png)
+### Git Bash
+![Get](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Git%20bash.png)
 
-[![Screenshot-15-09-2022-08-34-23-p-m.png](https://i.postimg.cc/xTXjxGx1/Screenshot-15-09-2022-08-34-23-p-m.png)](https://postimg.cc/ZChh0NzG)
 ## Ejercicio 2
 **1. ¿Qué es un servidor HTTP?**
 Es un software con la facultad de entender las URLS y HTTP, ya que es la forma en que tu navegador procesa las paginas web y las encuentra.
@@ -47,7 +49,12 @@ Son fundamentales en los Http y comparten datos del navegador del usuario, en la
 Content-Type es utilizado para indicar el media type del recurso, al igual que le dice al usuario que tipo de contenido sera devuelto.
 
 ## Ejercicio 3
-Anulado.
+### Get 1
+![Get](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Get%201%20-RCOG.png)
+### Post
+![Get](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Post-RCOG.png)
+### Get 2
+![Get](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Get%202-RCOG.png)
 
 ## Ejercicio 4
 Realizado con exito.
