@@ -1,6 +1,5 @@
 # EVALUACIÓN PRÁCTICA
-ProContacto
-Por: Roberto Carlos Orozco Guevara
+
 ## Ejercicio 1
 ### Visual Studio Code
 ![Get](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/VS%20code.png)
