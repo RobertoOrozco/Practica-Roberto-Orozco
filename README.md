@@ -8,7 +8,7 @@
 
 ## Ejercicio 2
 **1. ¿Qué es un servidor HTTP?**
-Es un software con la facultad de entender las URLS y HTTP, ya que es la forma en que tu navegador procesa las paginas web y las encuentra.
+Es un software con la facultad de entender las URLS y HTTP, ya que es la forma en que tu navegador procesa las páginas web y las encuentra.
 
 **2. ¿Qué son los verbos HTTP? Mencionar los más conocidos**
 Son las diferentes acciones que se ejecutan para mostrar que paso se hará para un determinado trabajo.
@@ -16,7 +16,7 @@ Los 5 verbos HTTP más conocidos son:
 Get, Delete, Post, Put y Patch.
 
 **3. ¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?**
-Petición o request: es la parte inicial del desarrollo, es aquel parte en la que el cliente hace una solicitud o tambien request, que se enviara al servidor web.
+Petición o request: es la parte inicial del desarrollo, es aquel parte en la que el cliente hace una solicitud o tambien request, que se enviará al servidor web.
 Headers: almacenan información de autentificación de seguridad, la aplicación de usuario que se utiliza y los metadatos de control en una memoria caché.
 
 **4. ¿Qué es un queryString? (En el contexto de una url)**
@@ -44,7 +44,7 @@ Funciona como medio de comunicación para las aplicaciones que estan pensadas pa
 Es una forma compleja de un grupo de ideas y patrones de comunicación que funcionan para apoyar a crear ideas de pensamiento y hacer las API.
 
 **11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?**
-Son fundamentales en los Http y comparten datos del navegador del usuario, en la pagina buscada.
+Son fundamentales en los Http y comparten datos del navegador del usuario, en la página buscada.
 Content-Type es utilizado para indicar el media type del recurso, al igual que le dice al usuario que tipo de contenido sera devuelto.
 
 ## Ejercicio 3
@@ -70,7 +70,7 @@ Perfil personal trailhead [Trailhead](https://trailblazer.me/id/rguevara15)
 |Quote	       	|Sirve como medio para crear cotizaciones de productos o servicios de una forma eficaz y veloz.|S
 |Asset		      |Es la representación sobre un producto en particular adquirido o instalado.|
 |Case		        |Es cualquier problema o comentario que tenga un cliente de determinado asunto que se quiera resolver, por lo que los asistentes de servicios atenderan el problema para brindar un mejor servicio al cliente.|
-|Article	      |Salesforce Knowledge se hace por conocimientos de articulos, que es donde se guardan datos de sus documentos, los arituclos podran tener información sobre preguntas frecuentes.|
+|Article	      |Salesforce Knowledge se hace por conocimientos de artículos, que es donde se guardan datos de sus documentos, los artículos podran tener información sobre preguntas frecuentes.|
 
 ## Diagrama UML
 ![Diagrama UML](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Diagrama%20UML.jpg)
@@ -83,17 +83,17 @@ Es un software con la capacidad, servicio de gestionar datos complejos y adminis
 Es un software que reune la gran parte de funciones que tienen las demás plataformas, y permite administrar cotizaciones, facturaciones y pagos.
 
 **C. ¿Qué es Service Cloud?**
-Es la forma en la que se te da seguimiento a problemas por medios de chats, via llamada y correo electrónico soporte a cualquier hora del dia.
+Es la forma en la que se te da seguimiento a problemas por medios de chats, via llamada y correo electrónico soporte a cualquier hora del día.
 
 **D. ¿Qué es Health Cloud?**
-Conecta a centros de atención medica de manera avanzada con cada paciente en una sola plataforma, tambien hace una gestión del centro de llamadas y asi conectando a los paciente con la ayuda.
+Conecta a centros de atención medíca de manera avanzada con cada paciente en una sola plataforma, también hace una gestión del centro de llamadas y así conectando a los paciente con la ayuda.
 
 **E. ¿Qué es Marketing Cloud?**
-Sirve para obtener mas informacion sobre los clientes, y alcanzar a las personas en el momento exacto, atraves del mejor canal.
+Sirve para obtener mas información sobre los clientes, y alcanzar a las personas en el momento exacto, atraves del mejor canal.
 
 ## Funcionalidades de Salesforce
 **A. ¿Qué es un RecordType?**
-Te apoya para elegir las diferentes Picklist Values, Pages Layouts y Business Process, para un cierto fin en especifico y enseñarlo a distintos usuarios.
+Te apoya para elegir las diferentes Picklist Values, Pages Layouts y Business Process, para un cierto fin en específico y enseñarlo a distintos usuarios.
 
 **B. ¿Qué es un ReportType?**
 Es la forma en que Salesforce hace las gestiones de sus diferentes reportes para analizarlos y ver las inmensas posibilidades, y enseñarlos en formas fáciles de entender y compartirlos con otros usuarios.
@@ -102,7 +102,7 @@ Es la forma en que Salesforce hace las gestiones de sus diferentes reportes para
 Sirve para personalizar el formato en que se muestran los distintos apartados de las páginas, además muestra cuales apartados son visibles, de lectura u obligatorios.
 
 **D. ¿Qué es un Compact Layout?**
-Hacen un control de que apartados se mostrarán en el titulo, puede hacer un maximo de 10 campos en cada objeto, contando el nombre para mostrarlo en ese espacio.
+Hacen un control de que apartados se mostrarán en el título, puede hacer un maximo de 10 campos en cada objeto, contando el nombre para mostrarlo en ese espacio.
 
 **E. ¿Qué es un Perfil?**
 Es donde se almacena la información sobre cada usuario y las acciones que este mismo puede hacer en la aplicación.
@@ -114,13 +114,13 @@ Es todo el poder que un determinado usuario tiene sobre la información de su or
 Analiza información seleccionada de usuarios que tengan los estándares necesarios para poder ser guardados.
 
 **H. ¿Qué diferencia hay entre una relación Master Detail y Lookup?**
-La diferencia maxima de busquedos por objeto, la relación que se crea entre los objetos y que el maestro es un campo obligatorio en el segundo campo.
+La diferencia máxima de busquedos por objeto, la relación que se crea entre los objetos y que el maestro es un campo obligatorio en el segundo campo.
 
 **I. ¿Qué es un Sandbox?**
 Es información recabada sobre sus datos que puede ser utilizada con diferentes fines.
 
 **J. ¿Qué es un ChangeSet?**
-Son cambios que se le hacen a una organización de salesforce a la organizacion en la que inicia sesión usted.
+Son cambios que se le hacen a una organización de salesforce a la organización en la que inicia sesión usted.
 
 **K. ¿Para qué sirve el import Wizard de Salesforce?**
 Sirve para transferir información de objetos comúnes de salesforce.
@@ -129,7 +129,7 @@ Sirve para transferir información de objetos comúnes de salesforce.
 Permite personalizar un formulario con las preguntas más adecuadas para cada tipo de negocio con el objetivo de meterlo en un blog o una web corporativa y automatizando.
 
 **M. ¿Para qué sirve la funcionalidad Web to Case?**
-Sirve para capturar información de tu website, contactos y casos de tus usuarios automaticamente.
+Sirve para capturar información de tu website, contactos y casos de tus usuarios automáticamente.
 
 **N. ¿Para qué sirve la funcionalidad Omnichannel?**
 Sirve para dar seguimiento a casos que se puedan dar y hayan ingresado en la plataforma por medios como: correo electrónico o un chat.
@@ -142,7 +142,7 @@ Es una app que sirve para que los usuarios de salesforce puedan tener un contact
 Archivo succes de importación [CSV](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Success.csv)
 
 Pasos realizados
-Paso 1: Filtrar la primera fila para identificar el tipo de dato de los campos (lista, campos de tipo texto, fechas numerico).
+Paso 1: Filtrar la primera fila para identificar el tipo de dato de los campos (lista, campos de tipo texto, fechas numérico).
 
 Paso 2: En el playground, crear los campos necesarios para cada columna.
 
@@ -152,7 +152,7 @@ Paso 4: exportar los datos en CSV-UTF-8 para poder realizar la importación.
 
 Paso 5: Realizar la importación de cuentas.
 
-Paso 6: Volver al excel y sustituir el nombre de las cuentas en la hoja de oportunidad por el id que marca el success de cuentas.
+Paso 6: Volver al excel y sustituir el nombre de las cuentas en la hoja de oportunidad por el ID que marca el success de cuentas.
 
 Paso 7: Realizar la importación de oportunidades, relacionadas a las cuentas.
 
