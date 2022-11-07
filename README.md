@@ -60,18 +60,18 @@ Content-Type es utilizado para indicar el media type del recurso, al igual que l
 Perfil personal trailhead [Trailhead](https://trailblazer.me/id/rguevara15)
 
 # Ejercicio 5  
-|Objeto     		| Definicion 				                          	    | datos          |
-|---------------|---------------------------------------------------|----------------|
-|Lead           |Es cuando un cliente muestra atención sobre un producto o servicio que se brinda por alguna marca con medio de interacción contenido y materiales |String		       |
-|Account      	|Es cuando las cuentas personales guardan datos sobre personas junto con algunos campos de cuenta y contactos que solo tienen un registro, al participar con cuentas de compañeros.|String		       |
-|Contact	      |Sirve para guardar información acerca de las personas con las que se hacen negocios o se tiene algún otro interés de determinado fin.|String, int		 |
-|Opportunity   	|Es el proceso comercial que se lleva para la generación de una venta a un cliente.|String, Currency|
-|Product	      |Es el catálogo de servicios que ofrece la empresa a sus clientes.     |String		       |
-|PriceBook	    |Es una lista de los productos y precios ofrecidos. |string, currency|
-|Quote	       	|Sirve como medio para crear cotizaciones de productos o servicios de una forma eficaz y veloz.|String, Currency|
-|Asset		      |Es la representación sobre un producto en particular adquirido o instalado.|int, String		 |
-|Case		        |Es cualquier problema o comentario que tenga un cliente de determinado asunto que se quiera resolver, por lo que los asistentes de servicios atenderan el problema para brindar un mejor servicio al cliente.|String	    	   |
-|Article	      |Salesforce Knowledge se hace por conocimientos de articulos, que es donde se guardan datos de sus documentos, los arituclos podran tener información sobre preguntas frecuentes.|String	         |
+|Objeto     		| Definicion 				                          	    |        
+|---------------|---------------------------------------------------|
+|Lead           |Es cuando un cliente muestra atención sobre un producto o servicio que se brinda por alguna marca con medio de interacción contenido y materiales. 
+|Account      	|Es cuando las cuentas personales guardan datos sobre personas junto con algunos campos de cuenta y contactos que solo tienen un registro, al participar con cuentas de compañeros.| 
+|Contact	      |Sirve para guardar información acerca de las personas con las que se hacen negocios o se tiene algún otro interés de determinado fin.|
+|Opportunity   	|Es el proceso comercial que se lleva para la generación de una venta a un cliente.|
+|Product	      |Es el catálogo de servicios que ofrece la empresa a sus clientes.     |
+|PriceBook	    |Es una lista de los productos y precios ofrecidos. |
+|Quote	       	|Sirve como medio para crear cotizaciones de productos o servicios de una forma eficaz y veloz.|S
+|Asset		      |Es la representación sobre un producto en particular adquirido o instalado.|
+|Case		        |Es cualquier problema o comentario que tenga un cliente de determinado asunto que se quiera resolver, por lo que los asistentes de servicios atenderan el problema para brindar un mejor servicio al cliente.|
+|Article	      |Salesforce Knowledge se hace por conocimientos de articulos, que es donde se guardan datos de sus documentos, los arituclos podran tener información sobre preguntas frecuentes.|
 
 ## Diagrama UML
 ![Diagrama UML](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Diagrama.jpg)
