@@ -74,7 +74,7 @@ Perfil personal trailhead [Trailhead](https://trailblazer.me/id/rguevara15)
 |Article	      |Salesforce Knowledge se hace por conocimientos de articulos, que es donde se guardan datos de sus documentos, los arituclos podran tener información sobre preguntas frecuentes.|
 
 ## Diagrama UML
-![Diagrama UML](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Diagrama.jpg)
+![Diagrama UML](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Diagrama%20UML.jpg)
 
 ## **Ejercicio 6**
 **A. ¿Qué es Salesforce?**
@@ -139,4 +139,7 @@ Sirve para dar seguimiento a casos que se puedan dar y hayan ingresado en la pla
 Es una app que sirve para que los usuarios de salesforce puedan tener un contacto en vivo y puedan trabajar a la vez, comunicarse y compartir datos. En pocas palabras en una app para conferencias con la posibilidad de compartir información.
 
 ### Ejercicio 7
+
+Archivo succes de importación [CSV](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Success.csv)
+
 
