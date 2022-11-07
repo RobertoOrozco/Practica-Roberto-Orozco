@@ -92,7 +92,7 @@ Conecta a centros de atención medica de manera avanzada con cada paciente en un
 **E. ¿Qué es Marketing Cloud?**
 Sirve para obtener mas informacion sobre los clientes, y alcanzar a las personas en el momento exacto, atraves del mejor canal.
 
-## Funcionalidades de Sales Force
+## Funcionalidades de Salesforce
 **A. ¿Qué es un RecordType?**
 Te apoya para elegir las diferentes Picklist Values, Pages Layouts y Business Process, para un cierto fin en especifico y enseñarlo a distintos usuarios.
 
@@ -138,4 +138,5 @@ Sirve para dar seguimiento a casos que se puedan dar y hayan ingresado en la pla
 **O. ¿Para qué sirve la funcionalidad Chatter?**
 Es una app que sirve para que los usuarios de salesforce puedan tener un contacto en vivo y puedan trabajar a la vez, comunicarse y compartir datos. En pocas palabras en una app para conferencias con la posibilidad de compartir información.
 
+### Ejercicio 7
 
