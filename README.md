@@ -74,9 +74,8 @@ Perfil personal trailhead [Trailhead](https://trailblazer.me/id/rguevara15)
 |Article	      |Salesforce Knowledge se hace por conocimientos de articulos, que es donde se guardan datos de sus documentos, los arituclos podran tener información sobre preguntas frecuentes.|String	         |
 
 ## Diagrama UML
-![Diagrama UML](https://github.com/jesusOsuna23/Readme/blob/main/diagrama%20ejercicio%205.jpg)
+![Diagrama UML](https://github.com/RobertoOrozco/Practica-Roberto-Orozco/blob/main/Diagrama.jpg)
 
-[![Diagrama-drawio-entidad-relacion-rcog-drawio-diagrams-net-Google-Chrome-17-09-2022-08-19-54-p-m.png](https://i.postimg.cc/cJXVG26y/Diagrama-drawio-entidad-relacion-rcog-drawio-diagrams-net-Google-Chrome-17-09-2022-08-19-54-p-m.png)](https://postimg.cc/WDq9M9MX)
 ## **Ejercicio 6**
 **A. ¿Qué es Salesforce?**
 Es un software con la capacidad, servicio de gestionar datos complejos y administrar datos de empresas y clientes, el cual brinda bastantes opciones que te ayudarán a gestionar bien tu empresa.
