@@ -147,14 +147,14 @@ Paso 1: Filtrar la primera fila para identificar el tipo de dato de los campos (
 
 Paso 2: En el playground, crear los campos necesarios para cada columna.
 
-Paso 3: Corregir los datos del excel
+Paso 3: Corregir los datos del excel.
 
-Paso 4: exportar los datos en CSV-UTF-8 para poder realizar la importación
+Paso 4: exportar los datos en CSV-UTF-8 para poder realizar la importación.
 
-Paso 5: Realizar la importación de cuentas
+Paso 5: Realizar la importación de cuentas.
 
-Paso 6: Volver al excel y sustituir el nombre de las cuentas en la hoja de oportunidad por el id que marca el success de cuentas
+Paso 6: Volver al excel y sustituir el nombre de las cuentas en la hoja de oportunidad por el id que marca el success de cuentas.
 
-Paso 7: Realizar la importación de oportunidades, relacionadas a las cuentas
+Paso 7: Realizar la importación de oportunidades, relacionadas a las cuentas.
 
 
